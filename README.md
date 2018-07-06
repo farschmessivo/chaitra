@@ -12,4 +12,4 @@ docker-compose up --build
 ```
 
 
-Then open localhost:5000 on your browser.
+Then open localhost:5000 in your browser.
